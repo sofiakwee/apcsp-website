@@ -11,6 +11,6 @@ p {
 	font-family: verdana
 	font-size: 20px
 }
-td, th {
+table, th, td {
 	boarder: 1px solid black
 }
