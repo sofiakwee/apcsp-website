@@ -1,8 +1,7 @@
-body {
-	background-color: green;
+p {
+	font-family: verdana
+	font-size: 20px
 }
-
-td, th{
-	boarder: 1px solid black:
+table, th, td {
+	boarder: 1px solid black
 }
-
